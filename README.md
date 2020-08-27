@@ -1,6 +1,6 @@
 ### Adam Rosien
 
-Hi there 👋!
+Hi there! 👋
 
 I'm a Principal at [Inner Product LLC](https://inner-product.com), a functional programming consultancy, where I focus on building systems, teaching, and mentoring.
 
